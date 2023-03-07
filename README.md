@@ -1,3 +1,5 @@
+<img src="https://github.com/kyuran6/RockPaperScissor/issues/1#issue-1612775960" width="500">
+
 ## 가위바위보 게임
 
 1. 박스 2개 (타이틀, 사진, 결과)
