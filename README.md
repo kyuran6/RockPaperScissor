@@ -1,4 +1,4 @@
-<img src="https://github.com/kyuran6/RockPaperScissor/issues/1#issue-1612775960" width="500">
+<img src="https://github.com/kyuran6/RockPaperScissor/issues/1#issue-1612775960](https://user-images.githubusercontent.com/119389578/223332837-e8b42904-6242-4c74-9354-dc88d05b23e2.gif" width="500">
 
 ## 가위바위보 게임
 
