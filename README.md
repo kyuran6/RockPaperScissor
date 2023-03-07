@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/119389578/223332837-e8b42904-6242-4c74-9354-dc88d05b23e2.gif" alt="Animation" data-animated-image="" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/119389578/223332837-e8b42904-6242-4c74-9354-dc88d05b23e2.gif" alt="Animation" data-animated-image="" style="max-width: 70%;">
 
 ## 가위바위보 게임
 
